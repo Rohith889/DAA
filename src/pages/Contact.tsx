@@ -57,8 +57,8 @@ export function Contact() {
                     </div>
                     <div>
                       <h4 className="font-bold text-foreground mb-1">Phone Number</h4>
-                      <p className="text-muted-foreground">+91 98765 43210</p>
-                      <p className="text-muted-foreground">+91 98765 43211</p>
+                      <p className="text-muted-foreground">+91 85322 35436</p>
+                      <p className="text-muted-foreground">+91 9448690118</p>
                     </div>
                   </div>
 
@@ -68,7 +68,7 @@ export function Contact() {
                     </div>
                     <div>
                       <h4 className="font-bold text-foreground mb-1">Email Address</h4>
-                      <p className="text-muted-foreground">info@dhanushagro.com</p>
+                      <p className="text-muted-foreground">dhanushagro666@gmail.com</p>
                       <p className="text-muted-foreground">support@dhanushagro.com</p>
                     </div>
                   </div>
@@ -176,7 +176,7 @@ export function Contact() {
         <div className="absolute inset-0 flex items-center justify-center text-gray-500 flex-col">
           <MapPin className="h-12 w-12 mb-4 text-gray-400" />
           <p className="text-lg font-medium">Google Maps Embed Placeholder</p>
-          <p className="text-sm">123 Agri Market, Farming District</p>
+          <p className="text-sm"> Raichur - Wadi Rd, Osman Gunj, Raichur, Karnataka 584102</p>
         </div>
       </section>
     </div>
