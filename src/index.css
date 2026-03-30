@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #16a34a; /* green-600 */
+  --color-primary-dark: #15803d; /* green-700 */
+  --color-primary-light: #22c55e; /* green-500 */
+  --color-accent: #eab308; /* yellow-500 */
+  --color-accent-dark: #ca8a04; /* yellow-600 */
+  --color-background: #ffffff;
+  --color-foreground: #0f172a; /* slate-900 */
+  --color-muted: #f1f5f9; /* slate-100 */
+  --color-muted-foreground: #64748b; /* slate-500 */
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+}
